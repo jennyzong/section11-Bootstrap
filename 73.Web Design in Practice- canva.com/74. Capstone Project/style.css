@@ -1,0 +1,95 @@
+/* title */
+
+.p-5{
+    background-image: url("./images/background.jpeg"); 
+    background-size: cover; 
+    height: 100vh;
+}
+
+h1{
+    font-size: 6rem;
+    font-weight: bold;
+    font-family: "Sacramento", cursive;
+    margin-top: 15%;
+}
+
+.programmer{
+    color:blue;
+    text-decoration: underline;
+}
+
+/* introduction */
+
+.middle-container{
+    margin-top: 160px;
+}
+
+hr{
+    border: dotted cadetblue;
+    border-bottom: none;
+    width: 4%;
+    margin: 80px auto;
+}
+
+/* skills */
+
+.third-container{
+    padding: 50px;
+}
+
+
+.third-container h2{
+    margin-bottom: 10%;
+}
+
+.skill1{
+    margin-bottom: 5%;
+}
+/* information */
+
+.info-container{
+    padding: 100px;
+}
+
+.info-container h3{
+    font-size: 2.17rem;
+    margin: 30px 0;
+}
+
+.btn{
+    padding: 7px 20px;
+    font-size: 2.5rem;
+    margin: 10% auto;
+    background-color: rgb(165, 77, 165);
+    border: none;
+    border-radius: 10px;
+}
+
+h1, h2, h3{
+    color: blueviolet;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3.5rem;
+}
+
+p{
+    font-size: 1.7rem;
+    margin-top: 1rem;
+}
+
+/* footer */
+
+footer{
+    background-color:  rgb(165, 77, 165);
+    padding: 50px;
+}
+.nav-item{
+    font-size: 1.7rem;
+    color:blueviolet;
+}
+
+footer p{
+    color: white;
+}
